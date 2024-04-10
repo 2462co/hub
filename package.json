@@ -1,0 +1,14 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "description": "Tilde is a minimal browser homepage for pro web surfers.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'"
+  ],
+  "author": "",
+  "license": "ISC"
+}
